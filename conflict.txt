@@ -1,1 +1,2 @@
 This is the conflict test from main branch
+This is the conflict test from feature branch
